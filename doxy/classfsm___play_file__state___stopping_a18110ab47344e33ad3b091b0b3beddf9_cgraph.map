@@ -1,0 +1,10 @@
+<map id="fsm_PlayFile_state_Stopping::Poll" name="fsm_PlayFile_state_Stopping::Poll">
+<area shape="rect" id="node1" title=" " alt="" coords="5,71,139,112"/>
+<area shape="rect" id="node2" href="$classc___file_mgr.html#aaa9ced8faedbfea67fbefa0b5019babc" title=" " alt="" coords="201,21,355,47"/>
+<area shape="rect" id="node4" href="$classfsm___play_file__state___idle.html#aec3b675c72070641bb54eb10ee20a84e" title=" " alt="" coords="445,71,578,112"/>
+<area shape="rect" id="node6" href="$classc___input_f_p_p_remote_play_file.html#ac9b4b56c2a719407dc09530078d609de" title=" " alt="" coords="187,129,369,171"/>
+<area shape="rect" id="node3" href="$classc___file_mgr.html#a5744b69d4ab94abb4a8839fa295153db" title=" " alt="" coords="427,5,596,47"/>
+<area shape="rect" id="node5" href="$classc___input_f_p_p_remote_play_file.html#a2848f54d1ec8462d0fc54a47c564b035" title=" " alt="" coords="653,71,836,112"/>
+<area shape="rect" id="node7" href="$classc___file_mgr.html#a9d269a5325ae97f480a9c8e7671c862e" title=" " alt="" coords="417,137,605,163"/>
+<area shape="rect" id="node8" href="$classfsm___play_file__state.html#acca480317740eade01072debaf792573" title=" " alt="" coords="445,188,578,229"/>
+</map>

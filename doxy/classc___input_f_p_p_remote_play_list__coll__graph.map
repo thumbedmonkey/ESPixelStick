@@ -1,0 +1,10 @@
+<map id="c_InputFPPRemotePlayList" name="c_InputFPPRemotePlayList">
+<area shape="rect" id="node1" title=" " alt="" coords="401,179,584,205"/>
+<area shape="rect" id="node4" href="$classfsm___play_list__state.html" title=" " alt="" coords="789,208,924,235"/>
+<area shape="rect" id="node2" href="$classc___input_f_p_p_remote_play_item.html" title=" " alt="" coords="5,179,192,205"/>
+<area shape="rect" id="node3" href="$classfsm___play_list__state___idle.html" title=" " alt="" coords="973,5,1136,32"/>
+<area shape="rect" id="node5" href="$classfsm___play_list__state___wait_for_start.html" title=" " alt="" coords="987,85,1122,126"/>
+<area shape="rect" id="node6" href="$classfsm___play_list__state___playing_file.html" title=" " alt="" coords="987,186,1122,227"/>
+<area shape="rect" id="node7" href="$classfsm___play_list__state___paused.html" title=" " alt="" coords="987,263,1122,305"/>
+<area shape="rect" id="node8" href="$classfsm___play_list__state___playing_effect.html" title=" " alt="" coords="987,351,1122,393"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="c_OutputWS2811Uart::Begin" name="c_OutputWS2811Uart::Begin">
+<area shape="rect" id="node1" title="set up the operating environment based on the current config (or defaults)" alt="" coords="5,122,155,163"/>
+<area shape="rect" id="node2" href="$classc___output_common.html#aaf028565b3695cc6c9a7b57d24a813e0" title=" " alt="" coords="207,5,413,32"/>
+<area shape="rect" id="node3" href="$classc___output_pixel.html#a28e8f17e1829a31ac180453999a4ed0c" title=" " alt="" coords="205,57,415,98"/>
+<area shape="rect" id="node4" href="$classc___output_pixel.html#aaa71650db2b0caac5dc3dfee4e93fb5b" title=" " alt="" coords="203,122,417,163"/>
+<area shape="rect" id="node5" href="$classc___output_pixel.html#a5f41cc6f15f97df951fe2e2956b0c698" title=" " alt="" coords="207,187,413,229"/>
+<area shape="rect" id="node6" href="$_output_w_s2811_uart_8cpp.html#a60e02274aed3d64efd87e7d3ba044122" title=" " alt="" coords="251,253,369,280"/>
+</map>

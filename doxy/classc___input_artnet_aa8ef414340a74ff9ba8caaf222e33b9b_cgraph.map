@@ -1,0 +1,7 @@
+<map id="c_InputArtnet::SetConfig" name="c_InputArtnet::SetConfig">
+<area shape="rect" id="node1" title="Set a new config in the driver." alt="" coords="5,56,168,83"/>
+<area shape="rect" id="node2" href="$classc___input_artnet.html#ae18005028b9d8ed8870824ba40b043cb" title="Get the current config used by the driver." alt="" coords="248,5,411,32"/>
+<area shape="rect" id="node3" href="$_e_s_pixel_stick_8h.html#a41e121c8cd723982e1127a1ccf29b756" title=" " alt="" coords="276,56,383,83"/>
+<area shape="rect" id="node4" href="$classc___input_artnet.html#ac6bd00a3f820560363715444d2c51acc" title=" " alt="" coords="216,107,443,133"/>
+<area shape="rect" id="node5" href="$classc___input_artnet.html#aa6db03c1ab9369151325ea72fd12516a" title=" " alt="" coords="491,99,651,141"/>
+</map>

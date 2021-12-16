@@ -1,0 +1,11 @@
+<map id="c_InputFPPRemotePlayEffect" name="c_InputFPPRemotePlayEffect">
+<area shape="rect" id="node1" title=" " alt="" coords="581,52,776,79"/>
+<area shape="rect" id="node4" href="$classfsm___play_effect__state.html" title=" " alt="" coords="1000,53,1145,80"/>
+<area shape="rect" id="node2" href="$classc___input_f_p_p_remote_play_item.html" title=" " alt="" coords="264,27,451,53"/>
+<area shape="rect" id="node3" href="$classfsm___play_effect__state___playing_effect.html" title=" " alt="" coords="1209,15,1354,57"/>
+<area shape="rect" id="node5" href="$classfsm___play_effect__state___idle.html" title=" " alt="" coords="1195,85,1368,112"/>
+<area shape="rect" id="node6" href="$classc___input_effect_engine.html" title=" " alt="" coords="289,77,426,104"/>
+<area shape="rect" id="node7" href="$classc___input_common.html" title=" " alt="" coords="15,19,133,45"/>
+<area shape="rect" id="node8" href="$structc___input_effect_engine_1_1_effect_descriptor__s.html" title=" " alt="" coords="5,70,143,111"/>
+<area shape="rect" id="node9" href="$structc___input_effect_engine_1_1_c_r_g_b.html" title=" " alt="" coords="5,135,143,177"/>
+</map>

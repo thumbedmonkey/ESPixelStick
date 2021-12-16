@@ -1,0 +1,10 @@
+<map id="fsm_PlayList_state_Idle::Init" name="fsm_PlayList_state_Idle::Init">
+<area shape="rect" id="node1" title=" " alt="" coords="373,104,508,145"/>
+<area shape="rect" id="node2" href="$classfsm___play_list__state___wait_for_start.html#a9926923d98c92f45e00aa5b2210e9b4f" title=" " alt="" coords="189,5,325,47"/>
+<area shape="rect" id="node3" href="$classfsm___play_list__state___playing_file.html#a87d5bf05866338d3a0c2aca0d2dda50e" title=" " alt="" coords="189,71,324,112"/>
+<area shape="rect" id="node5" href="$classfsm___play_list__state___playing_effect.html#aa33727f0d728e2ddc9239e285e323bd7" title=" " alt="" coords="188,136,325,177"/>
+<area shape="rect" id="node7" href="$classfsm___play_list__state___paused.html#a02b07c2944b7cbde563ca9b51d955084" title=" " alt="" coords="189,201,324,243"/>
+<area shape="rect" id="node4" href="$classfsm___play_list__state___playing_file.html#acd4b0acd9bd40898dd47a7e21a2c7469" title=" " alt="" coords="5,71,140,112"/>
+<area shape="rect" id="node6" href="$classfsm___play_list__state___playing_effect.html#a8f7010668e29f6dc5bcf9c7669b35642" title=" " alt="" coords="5,136,140,177"/>
+<area shape="rect" id="node8" href="$classfsm___play_list__state___paused.html#a3a304dfd3b11e70e9e7bf887ed1c06dd" title=" " alt="" coords="5,201,140,243"/>
+</map>

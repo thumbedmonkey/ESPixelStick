@@ -1,0 +1,12 @@
+<map id="c_FileMgr::LoadConfigFile" name="c_FileMgr::LoadConfigFile">
+<area shape="rect" id="node1" title=" " alt="" coords="516,107,687,133"/>
+<area shape="rect" id="node2" href="$_e_s_pixel_stick_8ino.html#ad5ed6ddd9940c0097cc91774056df1c2" title="Load configuration file." alt="" coords="139,157,221,184"/>
+<area shape="rect" id="node5" href="$classc___input_mgr.html#a86facb1b4291c34d64365c6171cd6802" title=" " alt="" coords="305,56,463,83"/>
+<area shape="rect" id="node8" href="$classc___output_mgr.html#a18f0345656b0c2795b7c925f6d797761" title="Read the current configuration data from nvram." alt="" coords="300,107,468,133"/>
+<area shape="rect" id="node3" href="$_e_s_pixel_stick_8ino.html#afe461d27b9c48d5921c00d521181f12f" title="Main Loop." alt="" coords="9,157,56,184"/>
+<area shape="rect" id="node4" href="$_e_s_pixel_stick_8ino.html#a4fc01d736fe50cf5b977f755b675f11d" title="Radio configuration." alt="" coords="5,107,60,133"/>
+<area shape="rect" id="node6" href="$classc___input_mgr.html#a3e9d0ad9c79c931b9db662c0818302bf" title="&lt; Start the module" alt="" coords="117,5,243,32"/>
+<area shape="rect" id="node7" href="$classc___input_mgr.html#a1823b8316d8574f82bdb06ed1412f161" title="&lt; Called from loop(), renders Input data" alt="" coords="109,56,251,83"/>
+<area shape="rect" id="node9" href="$classc___output_mgr.html#a90fb3f0faa9e11adcade9b0aee1525f3" title="set up the operating environment based on the current config (or defaults)" alt="" coords="112,107,248,133"/>
+<area shape="rect" id="node10" href="$classc___output_mgr.html#a6603b0490a059d9d6063c56d7c368e8c" title="Call from loop(), renders output data." alt="" coords="108,208,252,235"/>
+</map>

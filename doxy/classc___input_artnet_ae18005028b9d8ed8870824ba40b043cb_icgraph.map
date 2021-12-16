@@ -1,0 +1,4 @@
+<map id="c_InputArtnet::GetConfig" name="c_InputArtnet::GetConfig">
+<area shape="rect" id="node1" title="Get the current config used by the driver." alt="" coords="216,5,379,32"/>
+<area shape="rect" id="node2" href="$classc___input_artnet.html#aa8ef414340a74ff9ba8caaf222e33b9b" title="Set a new config in the driver." alt="" coords="5,5,168,32"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="c_OutputMgr::CreateNewConfig" name="c_OutputMgr::CreateNewConfig">
+<area shape="rect" id="node1" title=" " alt="" coords="527,60,731,87"/>
+<area shape="rect" id="node2" href="$classc___output_mgr.html#a18f0345656b0c2795b7c925f6d797761" title="Read the current configuration data from nvram." alt="" coords="305,31,473,57"/>
+<area shape="rect" id="node7" href="$classc___output_mgr.html#a76a8b800d195f6edb29110b47e9ea38a" title=" " alt="" coords="300,82,479,123"/>
+<area shape="rect" id="node3" href="$classc___output_mgr.html#a90fb3f0faa9e11adcade9b0aee1525f3" title="set up the operating environment based on the current config (or defaults)" alt="" coords="112,5,248,32"/>
+<area shape="rect" id="node5" href="$classc___output_mgr.html#a6603b0490a059d9d6063c56d7c368e8c" title="Call from loop(), renders output data." alt="" coords="108,56,252,83"/>
+<area shape="rect" id="node4" href="$_e_s_pixel_stick_8ino.html#a4fc01d736fe50cf5b977f755b675f11d" title="Radio configuration." alt="" coords="5,5,60,32"/>
+<area shape="rect" id="node6" href="$_e_s_pixel_stick_8ino.html#afe461d27b9c48d5921c00d521181f12f" title="Main Loop." alt="" coords="9,56,56,83"/>
+</map>

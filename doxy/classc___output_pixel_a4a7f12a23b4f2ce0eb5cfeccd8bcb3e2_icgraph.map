@@ -1,0 +1,12 @@
+<map id="c_OutputPixel::SetFrameDurration" name="c_OutputPixel::SetFrameDurration">
+<area shape="rect" id="node1" title=" " alt="" coords="695,125,913,151"/>
+<area shape="rect" id="node2" href="$classc___output_u_c_s1903.html#a3bd2b5bc4151d128aaf74a5ff979dcec" title="Set a new config in the driver." alt="" coords="453,17,647,43"/>
+<area shape="rect" id="node4" href="$classc___output_w_s2811.html#ac49c587aa0bd497201a08cba894e1ccf" title="Set a new config in the driver." alt="" coords="457,74,643,101"/>
+<area shape="rect" id="node6" href="$classc___output_pixel.html#ab58914003d92139face54ff48535787f" title=" " alt="" coords="466,176,634,217"/>
+<area shape="rect" id="node7" href="$classc___output_u_c_s1903.html#a9fdc9541ea63bb7c9a9c474075fe7e57" title=" " alt="" coords="209,143,405,184"/>
+<area shape="rect" id="node9" href="$classc___output_w_s2811.html#a2f597b7e3f9af30ad78feccf6a40d598" title=" " alt="" coords="213,223,402,264"/>
+<area shape="rect" id="node3" href="$classc___output_u_c_s1903_uart.html#a1cbfc727a4c0f6fe5c613bdec5539efa" title="Set a new config in the driver." alt="" coords="229,5,385,47"/>
+<area shape="rect" id="node5" href="$classc___output_w_s2811_uart.html#a49ac81c566414b5e57d63360e4e963d6" title="Set a new config in the driver." alt="" coords="233,71,382,112"/>
+<area shape="rect" id="node8" href="$classc___output_u_c_s1903_uart.html#a52f28ca2082403296124d0c6ddca2d20" title=" " alt="" coords="5,143,161,184"/>
+<area shape="rect" id="node10" href="$classc___output_w_s2811_uart.html#add1df8dab334016d223715653a0de43e" title=" " alt="" coords="9,223,158,264"/>
+</map>

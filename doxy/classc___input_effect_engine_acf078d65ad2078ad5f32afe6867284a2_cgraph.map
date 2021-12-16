@@ -1,0 +1,12 @@
+<map id="c_InputEffectEngine::SetConfig" name="c_InputEffectEngine::SetConfig">
+<area shape="rect" id="node1" title="Set a new config in the driver." alt="" coords="5,169,143,211"/>
+<area shape="rect" id="node2" href="$classc___input_effect_engine.html#a711dc7de895ef3f4b0b599ac2d6eaa9c" title="Get the current config used by the driver." alt="" coords="196,5,333,47"/>
+<area shape="rect" id="node3" href="$classc___input_effect_engine.html#a9de9e030a014565f95d606dea87b284c" title=" " alt="" coords="196,71,333,112"/>
+<area shape="rect" id="node4" href="$classc___input_effect_engine.html#a008c4deb4332e0e98966544e6da6958d" title=" " alt="" coords="196,136,333,177"/>
+<area shape="rect" id="node5" href="$classc___input_effect_engine.html#a80cd28e720963e39357b96dc2e516291" title=" " alt="" coords="196,201,333,243"/>
+<area shape="rect" id="node6" href="$_e_s_pixel_stick_8h.html#a41e121c8cd723982e1127a1ccf29b756" title=" " alt="" coords="211,267,318,294"/>
+<area shape="rect" id="node7" href="$classc___input_effect_engine.html#abcbf05e7ca16985fa97382121a08867b" title=" " alt="" coords="191,319,339,360"/>
+<area shape="rect" id="node8" href="$classc___input_effect_engine.html#a80416202be606d8a4c68312aecb69c1c" title=" " alt="" coords="387,260,524,301"/>
+<area shape="rect" id="node9" href="$classc___input_effect_engine.html#a8fa707bf9c7e9c79bfeae6d98adfc30c" title=" " alt="" coords="572,348,709,389"/>
+<area shape="rect" id="node10" href="$classc___input_effect_engine.html#a3628411bc599079aa0e45dd3df1682fc" title=" " alt="" coords="387,377,524,419"/>
+</map>

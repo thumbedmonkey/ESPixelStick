@@ -1,0 +1,4 @@
+<map id="fsm_PlayEffect_state_Idle" name="fsm_PlayEffect_state_Idle">
+<area shape="rect" id="node1" title=" " alt="" coords="5,80,179,107"/>
+<area shape="rect" id="node2" href="$classfsm___play_effect__state.html" title=" " alt="" coords="19,5,165,32"/>
+</map>

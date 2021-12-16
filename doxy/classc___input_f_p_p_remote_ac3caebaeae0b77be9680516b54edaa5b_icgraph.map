@@ -1,0 +1,9 @@
+<map id="c_InputFPPRemote::PlayingRemoteFile" name="c_InputFPPRemote::PlayingRemoteFile">
+<area shape="rect" id="node1" title=" " alt="" coords="772,78,956,119"/>
+<area shape="rect" id="node2" href="$classc___input_f_p_p_remote.html#abe329db482622289087e14d0a9b40e24" title=" " alt="" coords="517,5,719,32"/>
+<area shape="rect" id="node3" href="$classc___input_f_p_p_remote.html#a443df599d56a819b87102cefe5d45cd3" title="Call from loop(), renders Input data." alt="" coords="9,60,200,87"/>
+<area shape="rect" id="node4" href="$classc___input_f_p_p_remote.html#ad3bc5af64fe8523ba3c2f35cffa62fa0" title=" " alt="" coords="512,107,724,149"/>
+<area shape="rect" id="node7" href="$classc___input_f_p_p_remote.html#a8148ddeeaff99c8f343c66e7e3a08a5d" title=" " alt="" coords="512,173,724,214"/>
+<area shape="rect" id="node5" href="$classc___input_f_p_p_remote.html#a25cf9123173d9c89fe7e5f2f77f90f42" title=" " alt="" coords="252,115,464,141"/>
+<area shape="rect" id="node6" href="$classc___input_f_p_p_remote.html#a1ee15e1c30584550418fd15599f8de61" title="Set a new config in the driver." alt="" coords="5,115,204,141"/>
+</map>

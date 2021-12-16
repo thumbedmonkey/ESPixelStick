@@ -1,0 +1,6 @@
+<map id="c_InputFPPRemotePlayItem" name="c_InputFPPRemotePlayItem">
+<area shape="rect" id="node1" title=" " alt="" coords="223,5,409,32"/>
+<area shape="rect" id="node2" href="$classc___input_f_p_p_remote_play_effect.html" title=" " alt="" coords="5,80,200,107"/>
+<area shape="rect" id="node3" href="$classc___input_f_p_p_remote_play_file.html" title=" " alt="" coords="225,80,407,107"/>
+<area shape="rect" id="node4" href="$classc___input_f_p_p_remote_play_list.html" title=" " alt="" coords="431,80,614,107"/>
+</map>

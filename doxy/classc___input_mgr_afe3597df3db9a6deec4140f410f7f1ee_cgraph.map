@@ -1,0 +1,8 @@
+<map id="c_InputMgr::InstantiateNewInputChannel" name="c_InputMgr::InstantiateNewInputChannel">
+<area shape="rect" id="node1" title=" " alt="" coords="5,107,187,149"/>
+<area shape="rect" id="node2" href="$classc___input_common.html#ab048d5e7494a1f0f2b56ac04d1fab490" title="set up the operating environment based on the current config (or defaults)" alt="" coords="263,5,419,32"/>
+<area shape="rect" id="node3" href="$classc___input_common.html#a748af3e95c6f199379cdf6c95bb0f245" title="get the name for the instantiated driver" alt="" coords="235,56,448,83"/>
+<area shape="rect" id="node4" href="$classc___input_mgr.html#a20bc4c894b378f7f4e9acb19ec76b45f" title=" " alt="" coords="238,107,445,149"/>
+<area shape="rect" id="node5" href="$classc___input_common.html#ac6be1a5317faa008bc8f616864d74cab" title=" " alt="" coords="245,173,438,214"/>
+<area shape="rect" id="node6" href="$classc___input_common.html#afa021719045924db9b254ff0f710b690" title=" " alt="" coords="242,239,441,265"/>
+</map>

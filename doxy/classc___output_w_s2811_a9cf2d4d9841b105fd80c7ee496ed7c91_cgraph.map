@@ -1,0 +1,5 @@
+<map id="c_OutputWS2811::GetConfig" name="c_OutputWS2811::GetConfig">
+<area shape="rect" id="node1" title="Get the current config used by the driver." alt="" coords="5,5,192,32"/>
+<area shape="rect" id="node2" href="$classc___output_pixel.html#ac10e3bc6c2561bdd7a256e23d801ad75" title="Get the current config used by the driver." alt="" coords="240,5,407,32"/>
+<area shape="rect" id="node3" href="$classc___output_common.html#af5012304489562dff5cd3814791b37f6" title="Get the current config used by the driver." alt="" coords="455,5,645,32"/>
+</map>

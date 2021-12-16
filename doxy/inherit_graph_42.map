@@ -1,0 +1,8 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classfsm___play_list__state.html" title=" " alt="" coords="5,129,140,156"/>
+<area shape="rect" id="node2" href="$classfsm___play_list__state___idle.html" title=" " alt="" coords="188,5,351,32"/>
+<area shape="rect" id="node3" href="$classfsm___play_list__state___paused.html" title=" " alt="" coords="202,57,337,98"/>
+<area shape="rect" id="node4" href="$classfsm___play_list__state___playing_effect.html" title=" " alt="" coords="202,122,337,163"/>
+<area shape="rect" id="node5" href="$classfsm___play_list__state___playing_file.html" title=" " alt="" coords="202,187,337,229"/>
+<area shape="rect" id="node6" href="$classfsm___play_list__state___wait_for_start.html" title=" " alt="" coords="202,253,337,294"/>
+</map>

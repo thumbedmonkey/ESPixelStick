@@ -1,0 +1,13 @@
+<map id="c_OutputSerial::SetConfig" name="c_OutputSerial::SetConfig">
+<area shape="rect" id="node1" title="Set a new config in the driver." alt="" coords="5,107,176,133"/>
+<area shape="rect" id="node2" href="$classc___output_serial.html#a2cb9005fccbf54e55dc6b1b5e7d12ab6" title="Get the current config used by the driver." alt="" coords="233,5,404,32"/>
+<area shape="rect" id="node4" href="$classc___output_common.html#acc5c49f206afba001b6514aeb4b6b2ba" title="Set a new config in the driver." alt="" coords="224,56,413,83"/>
+<area shape="rect" id="node5" href="$_e_s_pixel_stick_8h.html#a41e121c8cd723982e1127a1ccf29b756" title=" " alt="" coords="511,56,617,83"/>
+<area shape="rect" id="node6" href="$classc___output_serial.html#ae1aa7fad114b743cd9a453bae274c4cc" title=" " alt="" coords="235,157,402,184"/>
+<area shape="rect" id="node9" href="$classc___output_serial.html#a49c59dd654e9f32d32ab29bd16d5f1c1" title=" " alt="" coords="239,212,398,239"/>
+<area shape="rect" id="node3" href="$classc___output_common.html#af5012304489562dff5cd3814791b37f6" title="Get the current config used by the driver." alt="" coords="469,5,659,32"/>
+<area shape="rect" id="node7" href="$classc___output_common.html#aaf028565b3695cc6c9a7b57d24a813e0" title=" " alt="" coords="461,107,667,133"/>
+<area shape="rect" id="node8" href="$_output_serial_8cpp.html#a60e02274aed3d64efd87e7d3ba044122" title=" " alt="" coords="505,157,623,184"/>
+<area shape="rect" id="node10" href="$classc___output_serial.html#a25f5ca43a2361a73a485d5914e4f7303" title=" " alt="" coords="477,209,651,250"/>
+<area shape="rect" id="node11" href="$classc___output_common.html#ae1f127cc7571fd21c2ebae7c582769ec" title=" " alt="" coords="715,209,907,250"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="loadConfig" name="loadConfig">
+<area shape="rect" id="node1" title="Load configuration file." alt="" coords="5,132,88,159"/>
+<area shape="rect" id="node2" href="$_e_s_pixel_stick_8ino.html#a83bb95469ae1f2fbaa0cca569c2cc837" title=" " alt="" coords="144,81,299,108"/>
+<area shape="rect" id="node11" href="$classc___file_mgr.html#a4e121f1705303984653f643032bc1d3f" title=" " alt="" coords="136,132,307,159"/>
+<area shape="rect" id="node12" href="$_e_s_pixel_stick_8ino.html#aa83bf610d4f986357e0ea1274d087680" title="Configuration Validations." alt="" coords="170,183,273,209"/>
+<area shape="rect" id="node3" href="$_e_s_pixel_stick_8ino.html#a067b67c856af5452506085e83cdb2b01" title=" " alt="" coords="386,81,497,108"/>
+<area shape="rect" id="node4" href="$_e_s_pixel_stick_8ino.html#ae3fa381b4975543d1b331c6aa0d4526a" title="Deserialize device configuration JSON to config structure &#45; returns true if config change detected." alt="" coords="609,5,685,32"/>
+<area shape="rect" id="node5" href="$_e_s_pixel_stick_8h.html#a41e121c8cd723982e1127a1ccf29b756" title=" " alt="" coords="793,81,899,108"/>
+<area shape="rect" id="node6" href="$_e_s_pixel_stick_8ino.html#a0b66f59517303936e5ecb82ddf4c8780" title="Deserialize network configuration JSON to config structure &#45; returns true if config change detected." alt="" coords="604,107,689,133"/>
+<area shape="rect" id="node7" href="$classc___file_mgr.html#ac14c25f4d4db4016303b200f6bd9ae99" title=" " alt="" coords="576,157,717,184"/>
+<area shape="rect" id="node8" href="$classc___file_mgr.html#a8dc1049ad4f1d3cba694bd51eda0a8e9" title=" " alt="" coords="765,157,927,184"/>
+<area shape="rect" id="node9" href="$classc___file_mgr.html#a96fc290cd73476fc1f47b0ab86031cb2" title=" " alt="" coords="975,150,1153,191"/>
+<area shape="rect" id="node10" href="$classc___file_mgr.html#a07c31954eabdaa6872eed467e0f36cc4" title=" " alt="" coords="1201,157,1363,184"/>
+<area shape="rect" id="node13" href="$classc___wi_fi_mgr.html#af7efe229dcdb094ab39e47f9ebfc88ca" title=" " alt="" coords="355,183,528,209"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="fsm_PlayFile_state_Idle::Start" name="fsm_PlayFile_state_Idle::Start">
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,139,47"/>
+<area shape="rect" id="node2" href="$classfsm___play_file__state___starting.html#ad394ce5f02f91b924c1e7873fb1a2a3c" title=" " alt="" coords="187,5,320,47"/>
+</map>

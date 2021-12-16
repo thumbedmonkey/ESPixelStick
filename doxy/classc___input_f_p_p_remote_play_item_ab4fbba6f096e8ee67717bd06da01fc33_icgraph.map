@@ -1,0 +1,12 @@
+<map id="c_InputFPPRemotePlayItem::Start" name="c_InputFPPRemotePlayItem::Start">
+<area shape="rect" id="node1" title=" " alt="" coords="772,90,959,131"/>
+<area shape="rect" id="node2" href="$classc___input_m_q_t_t.html#aa7e66ef912ee4ea959c6a4046ed2724e" title=" " alt="" coords="537,5,699,32"/>
+<area shape="rect" id="node5" href="$classfsm___play_list__state___playing_file.html#ad0d79ffd07214a6cbca093ce899aefaf" title=" " alt="" coords="551,57,685,98"/>
+<area shape="rect" id="node6" href="$classfsm___play_list__state___playing_effect.html#a4e324117ed953cb3421075666c3a8033" title=" " alt="" coords="549,122,687,163"/>
+<area shape="rect" id="node7" href="$classc___input_f_p_p_remote.html#ad3bc5af64fe8523ba3c2f35cffa62fa0" title=" " alt="" coords="512,187,724,229"/>
+<area shape="rect" id="node3" href="$classc___input_m_q_t_t.html#a69f43a61d6c3bf26ef137228108373ee" title=" " alt="" coords="257,5,459,32"/>
+<area shape="rect" id="node4" href="$classc___input_m_q_t_t.html#a00dad1347b7fbe42eb3f3b444f219254" title="set up the operating environment based on the current config (or defaults)" alt="" coords="34,5,175,32"/>
+<area shape="rect" id="node8" href="$classc___input_f_p_p_remote.html#a25cf9123173d9c89fe7e5f2f77f90f42" title=" " alt="" coords="252,195,464,221"/>
+<area shape="rect" id="node9" href="$classc___input_f_p_p_remote.html#a443df599d56a819b87102cefe5d45cd3" title="Call from loop(), renders Input data." alt="" coords="9,169,200,196"/>
+<area shape="rect" id="node10" href="$classc___input_f_p_p_remote.html#a1ee15e1c30584550418fd15599f8de61" title="Set a new config in the driver." alt="" coords="5,220,204,247"/>
+</map>

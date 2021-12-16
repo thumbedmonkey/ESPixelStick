@@ -1,0 +1,15 @@
+<map id="c_OutputCommon::SetOutputBufferSize" name="c_OutputCommon::SetOutputBufferSize">
+<area shape="rect" id="node1" title=" " alt="" coords="689,104,881,145"/>
+<area shape="rect" id="node2" href="$classc___output_g_e_c_e.html#afa49af48b57f42a203505c2ebc84de91" title="set up the operating environment based on the current config (or defaults)" alt="" coords="480,19,629,46"/>
+<area shape="rect" id="node3" href="$classc___output_pixel.html#ab58914003d92139face54ff48535787f" title=" " alt="" coords="471,71,639,112"/>
+<area shape="rect" id="node8" href="$classc___output_serial.html#a25f5ca43a2361a73a485d5914e4f7303" title=" " alt="" coords="468,136,641,177"/>
+<area shape="rect" id="node12" href="$classc___output_g_e_c_e.html#ad0d6ada1fc2260b304bda02e804ba13c" title=" " alt="" coords="474,219,635,246"/>
+<area shape="rect" id="node4" href="$classc___output_u_c_s1903.html#a9fdc9541ea63bb7c9a9c474075fe7e57" title=" " alt="" coords="224,5,420,47"/>
+<area shape="rect" id="node6" href="$classc___output_w_s2811.html#a2f597b7e3f9af30ad78feccf6a40d598" title=" " alt="" coords="227,71,417,112"/>
+<area shape="rect" id="node5" href="$classc___output_u_c_s1903_uart.html#a52f28ca2082403296124d0c6ddca2d20" title=" " alt="" coords="13,5,169,47"/>
+<area shape="rect" id="node7" href="$classc___output_w_s2811_uart.html#add1df8dab334016d223715653a0de43e" title=" " alt="" coords="16,71,165,112"/>
+<area shape="rect" id="node9" href="$classc___output_serial.html#aae67513ced1d922122cbc87130e16ba0" title="set up the operating environment based on the current config (or defaults)" alt="" coords="249,137,395,163"/>
+<area shape="rect" id="node10" href="$classc___output_serial.html#a49c59dd654e9f32d32ab29bd16d5f1c1" title=" " alt="" coords="243,187,401,214"/>
+<area shape="rect" id="node11" href="$classc___output_serial.html#a761e53dd23aff91bc8ceb38c97c0f4a5" title="Set a new config in the driver." alt="" coords="5,187,176,214"/>
+<area shape="rect" id="node13" href="$classc___output_g_e_c_e.html#a6af3988d0c5c4943e036487c2af98d44" title="Set a new config in the driver." alt="" coords="236,238,408,265"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="fsm_PlayEffect_state" name="fsm_PlayEffect_state">
+<area shape="rect" id="node1" title=" " alt="" coords="5,84,151,111"/>
+<area shape="rect" id="node2" href="$classc___input_f_p_p_remote_play_effect.html" title=" " alt="" coords="633,147,828,173"/>
+<area shape="rect" id="node4" href="$classfsm___play_effect__state___playing_effect.html" title=" " alt="" coords="293,54,438,95"/>
+<area shape="rect" id="node5" href="$classfsm___play_effect__state___idle.html" title=" " alt="" coords="279,120,452,147"/>
+<area shape="rect" id="node3" href="$classc___input_f_p_p_remote_play_item.html" title=" " alt="" coords="272,233,459,260"/>
+<area shape="rect" id="node6" href="$classc___input_effect_engine.html" title=" " alt="" coords="297,284,434,311"/>
+<area shape="rect" id="node7" href="$classc___input_common.html" title=" " alt="" coords="19,225,137,252"/>
+<area shape="rect" id="node8" href="$structc___input_effect_engine_1_1_effect_descriptor__s.html" title=" " alt="" coords="9,277,147,318"/>
+<area shape="rect" id="node9" href="$structc___input_effect_engine_1_1_c_r_g_b.html" title=" " alt="" coords="9,342,147,383"/>
+</map>

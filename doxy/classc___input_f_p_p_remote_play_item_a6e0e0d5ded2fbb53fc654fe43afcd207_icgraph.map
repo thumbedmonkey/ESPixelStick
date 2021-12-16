@@ -1,0 +1,8 @@
+<map id="c_InputFPPRemotePlayItem::GetInputChannelId" name="c_InputFPPRemotePlayItem::GetInputChannelId">
+<area shape="rect" id="node1" title=" " alt="" coords="601,71,788,112"/>
+<area shape="rect" id="node2" href="$classfsm___play_list__state___playing_file.html#a471bea8f04253870645de27e8340d65a" title=" " alt="" coords="419,5,553,47"/>
+<area shape="rect" id="node5" href="$classfsm___play_list__state___playing_effect.html#a1095d2fdc6979e4fbbfb08b1b0422366" title=" " alt="" coords="419,71,553,112"/>
+<area shape="rect" id="node6" href="$classfsm___play_file__state___playing_file.html#a93096e483a49753808b01f0ce2a3f7b4" title=" " alt="" coords="419,136,553,177"/>
+<area shape="rect" id="node3" href="$classc___input_f_p_p_remote_play_list.html#a7c9150d33dd2d0752c2cabe86b462430" title=" " alt="" coords="188,39,371,80"/>
+<area shape="rect" id="node4" href="$classfsm___play_list__state___idle.html#ada0c459e4eeb0f9dc3cb3071b60d6b40" title=" " alt="" coords="5,39,140,80"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="c_InputFPPRemotePlayItem::GetStatus" name="c_InputFPPRemotePlayItem::GetStatus">
+<area shape="rect" id="node1" title=" " alt="" coords="255,57,441,98"/>
+<area shape="rect" id="node2" href="$classc___input_f_p_p_remote.html#abe329db482622289087e14d0a9b40e24" title=" " alt="" coords="5,5,207,32"/>
+<area shape="rect" id="node3" href="$classfsm___play_list__state___playing_file.html#af07fc8c7395760eb0381f7c024c79bf8" title=" " alt="" coords="27,57,185,98"/>
+<area shape="rect" id="node4" href="$classfsm___play_list__state___playing_effect.html#a063d4d484a73ff5266c5c9b4e0d65d2f" title=" " alt="" coords="21,122,191,163"/>
+</map>

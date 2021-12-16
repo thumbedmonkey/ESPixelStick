@@ -1,0 +1,19 @@
+<map id="read64" name="read64">
+<area shape="rect" id="node1" title=" " alt="" coords="1408,103,1469,130"/>
+<area shape="rect" id="node2" href="$classc___f_p_p_discovery.html#aebf914d165d32003ef1c96b38ba2be51" title=" " alt="" coords="1177,63,1360,104"/>
+<area shape="rect" id="node15" href="$classc___input_f_p_p_remote_play_file.html#a588e1c419a88dc3536d9867f25f074cd" title=" " alt="" coords="1177,128,1360,169"/>
+<area shape="rect" id="node3" href="$classc___f_p_p_discovery.html#a2e06d4a3b80cd325dddc55621b47115e" title=" " alt="" coords="925,26,1124,53"/>
+<area shape="rect" id="node14" href="$classc___f_p_p_discovery.html#a1f59ce0b751f091c5546ce96e1b41028" title=" " alt="" coords="920,77,1129,103"/>
+<area shape="rect" id="node4" href="$classc___web_mgr.html#a2c6189891b0496dae7d89ea7cdb24aee" title=" " alt="" coords="752,51,859,78"/>
+<area shape="rect" id="node5" href="$classc___web_mgr.html#a078d26bad50a9051344ff07ad8e746d8" title="set up the operating environment based on the current config (or defaults)" alt="" coords="519,23,641,50"/>
+<area shape="rect" id="node7" href="$classc___web_mgr.html#aa3c98d4d503811ca4071b3e3ba84fa0f" title=" " alt="" coords="469,78,691,105"/>
+<area shape="rect" id="node6" href="$_e_s_pixel_stick_8ino.html#a4fc01d736fe50cf5b977f755b675f11d" title="Radio configuration." alt="" coords="303,19,357,46"/>
+<area shape="rect" id="node8" href="$classfsm___wi_fi__state___connected_to_a_p.html#ab31da7c2aca52cf01dfe971d663073d5" title=" " alt="" coords="239,71,421,112"/>
+<area shape="rect" id="node11" href="$classfsm___wi_fi__state___connected_to_sta.html#a97b6baf24ad1c608f6ff7cac18b56034" title=" " alt="" coords="239,136,421,177"/>
+<area shape="rect" id="node9" href="$classfsm___wi_fi__state___connecting_using_config.html#ad687833f55433c760ef15c7c99b1f513" title=" " alt="" coords="5,5,191,47"/>
+<area shape="rect" id="node10" href="$classfsm___wi_fi__state___connecting_using_defaults.html#a0d02d6629a626b32ef1ab1f91b82badf" title=" " alt="" coords="5,71,191,112"/>
+<area shape="rect" id="node12" href="$classfsm___wi_fi__state___connecting_as_a_p.html#a7ef8d7da8114f886dcad4e1b4c95af3b" title=" " alt="" coords="5,136,191,177"/>
+<area shape="rect" id="node13" href="$classfsm___wi_fi__state___connecting_as_a_p.html#abfa70db6d7a2dedf0c0fe1f87f679f63" title=" " alt="" coords="5,201,191,243"/>
+<area shape="rect" id="node16" href="$classfsm___play_file__state___playing_file.html#a41bbef0eaa2308e1fc46f08727ad4cd8" title=" " alt="" coords="958,128,1091,169"/>
+<area shape="rect" id="node17" href="$classfsm___play_file__state___starting.html#a4598b2c717e0ac106ac325a130e58032" title=" " alt="" coords="739,128,872,169"/>
+</map>

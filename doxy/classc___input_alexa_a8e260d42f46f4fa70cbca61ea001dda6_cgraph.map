@@ -1,0 +1,10 @@
+<map id="c_InputAlexa::Begin" name="c_InputAlexa::Begin">
+<area shape="rect" id="node1" title="set up the operating environment based on the current config (or defaults)" alt="" coords="5,104,141,131"/>
+<area shape="rect" id="node2" href="$classc___input_common.html#ab048d5e7494a1f0f2b56ac04d1fab490" title="set up the operating environment based on the current config (or defaults)" alt="" coords="221,28,377,55"/>
+<area shape="rect" id="node3" href="$classc___input_alexa.html#adf1dcecdbc97eb955ad2ca3954678c80" title=" " alt="" coords="214,79,385,105"/>
+<area shape="rect" id="node6" href="$classc___input_common.html#a1649cd7444c3219b37fd8627754e2e56" title=" " alt="" coords="457,122,667,163"/>
+<area shape="rect" id="node7" href="$classc___web_mgr.html#aaad811dbabf3626c6ddb95f13f301f7f" title=" " alt="" coords="189,187,409,213"/>
+<area shape="rect" id="node4" href="$classc___input_common.html#a91676b3553f3a5b06361d43c2a81d45e" title="Set a new config in the driver." alt="" coords="473,5,651,32"/>
+<area shape="rect" id="node5" href="$classc___input_mgr.html#a8a195063dcc63c1fd8de7c14ab3bf0a2" title=" " alt="" coords="473,57,651,98"/>
+<area shape="rect" id="node8" href="$classc___web_mgr.html#a680165d31d7cd22afde779f25e6a4067" title=" " alt="" coords="471,187,653,229"/>
+</map>

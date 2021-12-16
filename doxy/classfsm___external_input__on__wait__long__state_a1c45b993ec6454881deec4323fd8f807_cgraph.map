@@ -1,0 +1,6 @@
+<map id="fsm_ExternalInput_on_wait_long_state::Poll" name="fsm_ExternalInput_on_wait_long_state::Poll">
+<area shape="rect" id="node1" title=" " alt="" coords="5,71,153,112"/>
+<area shape="rect" id="node2" href="$classfsm___external_input__off__state.html#a82ffee3ff38f4302701c5ce1dc937df6" title=" " alt="" coords="216,5,363,47"/>
+<area shape="rect" id="node3" href="$classfsm___external_input__wait__for__off__state.html#a5acd380c2d9df0f2901bb433f4f1cfe9" title=" " alt="" coords="211,71,368,112"/>
+<area shape="rect" id="node4" href="$classc___external_input.html#aa8c12cd0c690a094962ba8f7f5361282" title=" " alt="" coords="201,137,377,163"/>
+</map>

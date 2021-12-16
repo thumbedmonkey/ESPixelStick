@@ -1,0 +1,6 @@
+<map id="c_OutputSerial::SetOutputBufferSize" name="c_OutputSerial::SetOutputBufferSize">
+<area shape="rect" id="node1" title=" " alt="" coords="431,23,604,65"/>
+<area shape="rect" id="node2" href="$classc___output_serial.html#aae67513ced1d922122cbc87130e16ba0" title="set up the operating environment based on the current config (or defaults)" alt="" coords="230,5,377,32"/>
+<area shape="rect" id="node3" href="$classc___output_serial.html#a49c59dd654e9f32d32ab29bd16d5f1c1" title=" " alt="" coords="224,56,383,83"/>
+<area shape="rect" id="node4" href="$classc___output_serial.html#a761e53dd23aff91bc8ceb38c97c0f4a5" title="Set a new config in the driver." alt="" coords="5,56,176,83"/>
+</map>

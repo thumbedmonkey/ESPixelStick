@@ -1,0 +1,8 @@
+<map id="fsm_ExternalInput_state" name="fsm_ExternalInput_state">
+<area shape="rect" id="node1" title=" " alt="" coords="5,129,168,156"/>
+<area shape="rect" id="node2" href="$classfsm___external_input__boot.html" title=" " alt="" coords="216,5,375,32"/>
+<area shape="rect" id="node3" href="$classfsm___external_input__off__state.html" title=" " alt="" coords="222,57,369,98"/>
+<area shape="rect" id="node4" href="$classfsm___external_input__on__wait__long__state.html" title=" " alt="" coords="222,122,369,163"/>
+<area shape="rect" id="node5" href="$classfsm___external_input__on__wait__short__state.html" title=" " alt="" coords="222,187,369,229"/>
+<area shape="rect" id="node6" href="$classfsm___external_input__wait__for__off__state.html" title=" " alt="" coords="217,253,374,294"/>
+</map>

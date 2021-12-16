@@ -1,0 +1,8 @@
+<map id="c_FPPDiscovery::StartPlaying" name="c_FPPDiscovery::StartPlaying">
+<area shape="rect" id="node1" title=" " alt="" coords="5,71,200,98"/>
+<area shape="rect" id="node2" href="$classc___input_f_p_p_remote_play_file.html#ac9b4b56c2a719407dc09530078d609de" title=" " alt="" coords="248,64,431,105"/>
+<area shape="rect" id="node3" href="$classfsm___play_file__state___idle.html#aec3b675c72070641bb54eb10ee20a84e" title=" " alt="" coords="506,5,639,47"/>
+<area shape="rect" id="node5" href="$classc___file_mgr.html#a9d269a5325ae97f480a9c8e7671c862e" title=" " alt="" coords="479,71,667,98"/>
+<area shape="rect" id="node6" href="$classfsm___play_file__state.html#acca480317740eade01072debaf792573" title=" " alt="" coords="506,123,639,164"/>
+<area shape="rect" id="node4" href="$classc___input_f_p_p_remote_play_file.html#a2848f54d1ec8462d0fc54a47c564b035" title=" " alt="" coords="715,5,897,47"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="c_OutputUCS1903::SetConfig" name="c_OutputUCS1903::SetConfig">
+<area shape="rect" id="node1" title="Set a new config in the driver." alt="" coords="5,161,199,188"/>
+<area shape="rect" id="node2" href="$classc___output_pixel.html#aba69c60f370711f72ed8d1166e2bec41" title="Set a new config in the driver." alt="" coords="273,136,439,163"/>
+<area shape="rect" id="node10" href="$classc___output_pixel.html#a4a7f12a23b4f2ce0eb5cfeccd8bcb3e2" title=" " alt="" coords="247,187,465,213"/>
+<area shape="rect" id="node3" href="$classc___output_pixel.html#ac10e3bc6c2561bdd7a256e23d801ad75" title="Get the current config used by the driver." alt="" coords="527,5,694,32"/>
+<area shape="rect" id="node5" href="$classc___output_common.html#acc5c49f206afba001b6514aeb4b6b2ba" title="Set a new config in the driver." alt="" coords="516,56,705,83"/>
+<area shape="rect" id="node6" href="$_e_s_pixel_stick_8h.html#a41e121c8cd723982e1127a1ccf29b756" title=" " alt="" coords="798,81,905,108"/>
+<area shape="rect" id="node7" href="$classc___output_pixel.html#a9ba93bde21a6a41d53ad4b5773ad331b" title="Update color order." alt="" coords="521,158,700,199"/>
+<area shape="rect" id="node8" href="$classc___output_pixel.html#ae85f097b7467cb4aeb13a6dce4902127" title="Generate gamma correction table." alt="" coords="513,223,708,265"/>
+<area shape="rect" id="node9" href="$classc___output_pixel.html#a66f72d19f572047c01268a95d8cadaf0" title="confirm that the current configuration is valid" alt="" coords="533,289,688,316"/>
+<area shape="rect" id="node4" href="$classc___output_common.html#af5012304489562dff5cd3814791b37f6" title="Get the current config used by the driver." alt="" coords="756,5,947,32"/>
+</map>

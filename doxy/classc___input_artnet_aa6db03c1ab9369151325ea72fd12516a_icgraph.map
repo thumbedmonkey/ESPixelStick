@@ -1,0 +1,7 @@
+<map id="c_InputArtnet::SetBufferTranslation" name="c_InputArtnet::SetBufferTranslation">
+<area shape="rect" id="node1" title=" " alt="" coords="721,5,881,47"/>
+<area shape="rect" id="node2" href="$classc___input_artnet.html#ab3d5c7092864a6289beb90d1cc2dae8a" title=" " alt="" coords="5,13,188,39"/>
+<area shape="rect" id="node3" href="$classc___input_artnet.html#ac6bd00a3f820560363715444d2c51acc" title=" " alt="" coords="447,38,673,65"/>
+<area shape="rect" id="node4" href="$classc___input_artnet.html#a563a8812372831c86d5db8bee8e3cba9" title="set up the operating environment based on the current config (or defaults)" alt="" coords="248,38,387,65"/>
+<area shape="rect" id="node5" href="$classc___input_artnet.html#aa8ef414340a74ff9ba8caaf222e33b9b" title="Set a new config in the driver." alt="" coords="236,89,399,115"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="c_OutputMgr::InstantiateNewOutputChannel" name="c_OutputMgr::InstantiateNewOutputChannel">
+<area shape="rect" id="node1" title=" " alt="" coords="5,23,169,65"/>
+<area shape="rect" id="node2" href="$classc___output_common.html#a23ef97415464d74fe780256b6680bfb1" title="set up the operating environment based on the current config (or defaults)" alt="" coords="245,5,412,32"/>
+<area shape="rect" id="node3" href="$classc___output_common.html#a23228420b2471f0f041c0df0865cc60e" title="get the name for the instantiated driver" alt="" coords="217,56,440,83"/>
+</map>

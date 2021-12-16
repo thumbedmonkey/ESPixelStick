@@ -1,0 +1,6 @@
+<map id="fsm_PlayFile_state_Idle::Start" name="fsm_PlayFile_state_Idle::Start">
+<area shape="rect" id="node1" title=" " alt="" coords="187,71,320,112"/>
+<area shape="rect" id="node2" href="$classfsm___play_file__state___error.html#a158cb0287a3ce9aeec887a56f5f50006" title=" " alt="" coords="5,5,139,47"/>
+<area shape="rect" id="node3" href="$classfsm___play_file__state___idle.html#a1557a06a127faff40618570d26ab1afa" title=" " alt="" coords="5,71,139,112"/>
+<area shape="rect" id="node4" href="$classfsm___play_file__state___error.html#af91cbc71869fac92d8775b67937c43a8" title=" " alt="" coords="5,136,139,177"/>
+</map>
